@@ -1,7 +1,7 @@
 {
   "name": "ListenCode",
 	"displayName": "ListenCode",
-	"description": "a plugin in vscode that lets you enjoy music while coding",
+	"description": "a plugin in vscode that lets you enjoy FM while coding",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.54.0"
